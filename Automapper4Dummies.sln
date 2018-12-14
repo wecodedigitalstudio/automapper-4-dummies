@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndArrays", "ListAndArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicElementTypes", "PolymorphicElementTypes\PolymorphicElementTypes.csproj", "{EBB358B7-322A-4338-90DE-352E10DB219B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedMappings", "NestedMappings\NestedMappings.csproj", "{BFC98D62-F39D-4C18-9E33-542D78B105AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{EBB358B7-322A-4338-90DE-352E10DB219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBB358B7-322A-4338-90DE-352E10DB219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBB358B7-322A-4338-90DE-352E10DB219B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC98D62-F39D-4C18-9E33-542D78B105AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC98D62-F39D-4C18-9E33-542D78B105AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC98D62-F39D-4C18-9E33-542D78B105AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC98D62-F39D-4C18-9E33-542D78B105AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
