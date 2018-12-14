@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flattening", "Flattening\Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unflattening", "Unflattening\Unflattening.csproj", "{C514B7D7-CB02-45A9-AFC2-D4908B4D2AD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projection", "Projection\Projection.csproj", "{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C514B7D7-CB02-45A9-AFC2-D4908B4D2AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C514B7D7-CB02-45A9-AFC2-D4908B4D2AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C514B7D7-CB02-45A9-AFC2-D4908B4D2AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
