@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unflattening", "Unflattenin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projection", "Projection\Projection.csproj", "{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationValidation", "ConfigurationValidation\ConfigurationValidation.csproj", "{FB446F7A-D471-4473-ABC8-5A924A632422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F70CEC44-5F3D-4081-84CD-2D1F18FAF3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB446F7A-D471-4473-ABC8-5A924A632422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB446F7A-D471-4473-ABC8-5A924A632422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB446F7A-D471-4473-ABC8-5A924A632422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB446F7A-D471-4473-ABC8-5A924A632422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
