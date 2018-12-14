@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Automapper4Dummies
+namespace Flattening
 {
-    class Program
+    public class Product
     {
-        static void Main(string[] args)
-        {
-        }
+        public decimal Price { get; set; }
+        public string Name { get; set; }
     }
+
 }

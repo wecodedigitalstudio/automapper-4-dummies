@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Automapper4Dummies")]
+[assembly: AssemblyTitle("Flattening")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Automapper4Dummies")]
+[assembly: AssemblyProduct("Flattening")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bca9e0c3-6cef-4502-8701-18cf0d96aa1d")]
+[assembly: Guid("59b1d0a8-0333-4d3e-9b05-3257d760e31c")]
 
 // Version information for an assembly consists of the following four values:
 //
