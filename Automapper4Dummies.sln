@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueConverters", "ValueCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTransformers", "ValueTransformers\ValueTransformers.csproj", "{C5AD18A1-AD43-4CC2-B3D5-1F581753AC12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullSubstitution", "NullSubstitution\NullSubstitution.csproj", "{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C5AD18A1-AD43-4CC2-B3D5-1F581753AC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5AD18A1-AD43-4CC2-B3D5-1F581753AC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5AD18A1-AD43-4CC2-B3D5-1F581753AC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
