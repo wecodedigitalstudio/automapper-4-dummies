@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullSubstitution", "NullSub
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeAfterMap", "BeforeAfterMap\BeforeAfterMap.csproj", "{E6967608-32C9-4229-A51B-3C978D1C338F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryableExtensions", "QueryableExtensions\QueryableExtensions.csproj", "{A5700484-3D83-4209-BECF-3F7ACDAF1531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E6967608-32C9-4229-A51B-3C978D1C338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6967608-32C9-4229-A51B-3C978D1C338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6967608-32C9-4229-A51B-3C978D1C338F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5700484-3D83-4209-BECF-3F7ACDAF1531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5700484-3D83-4209-BECF-3F7ACDAF1531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5700484-3D83-4209-BECF-3F7ACDAF1531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5700484-3D83-4209-BECF-3F7ACDAF1531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
