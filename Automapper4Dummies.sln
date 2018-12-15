@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTransformers", "ValueT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullSubstitution", "NullSubstitution\NullSubstitution.csproj", "{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeAfterMap", "BeforeAfterMap\BeforeAfterMap.csproj", "{E6967608-32C9-4229-A51B-3C978D1C338F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831A6CB9-C053-4FB6-BBF5-6B537A5BE043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6967608-32C9-4229-A51B-3C978D1C338F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6967608-32C9-4229-A51B-3C978D1C338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6967608-32C9-4229-A51B-3C978D1C338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6967608-32C9-4229-A51B-3C978D1C338F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
